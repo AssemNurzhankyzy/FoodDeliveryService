@@ -1,0 +1,1 @@
+A full-stack food delivery platform where: Customers can browse restaurants, view menus, place orders, and track delivery status Restaurant Owners can manage their restaurants, menu items, and view incoming orders Admins can manage all users and monitor the platform
